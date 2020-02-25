@@ -1,27 +1,28 @@
-# Azure Logic Apps
+# AdventureWorks2012 -Sample Database of CI & CD for MSSQL Database with Azure Devops Service
 
-If you have questions about Logic Apps, please visit the [MSDN forums](https://social.msdn.microsoft.com/Forums/en-US/home?forum=azurelogicapps).
+This sample database used in Visual Studio 2017 for CI & CD
 
-## Connectors
-Samples of custom connectors for Azure Logic Apps.
+Video 1 - How to create .DACPAC file for SQL DB 2012
 
-* [Azure VM](connectors/AzureVM/README.md) - 
-    <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fazure%2Flogicapps%2Fmaster%2Fconnectors%2FAzureVM%2Fazuredeploy.json" target="_blank">
-        <img src="http://azuredeploy.net/deploybutton.png"/>
-    </a>
-    * Start, Stop, Deallocate, Restart, and more
-* [Microsoft Graph](connectors/Microsoft%20Graph/README.md) - 
-    <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fazure%2Flogicapps%2Fmaster%2Fconnectors%2FMicrosoft%20Graph%2Fazuredeploy.json" target="_blank">
-        <img src="http://azuredeploy.net/deploybutton.png"/>
-    </a>
-    * Add User, Assign Manager, Assign License, and more
+[![](http://img.youtube.com/vi/QfcCK21209o/0.jpg)](http://www.youtube.com/watch?v=QfcCK21209o "")
 
-## Templates
-View the template gallery for logic apps, with [instructions on how to create your own template](templates/README.md)
+Video 2 - How to create solution file in Visual Studio 2017 for SQL DB 2012
 
-## Articles
-View published whitepapers on how Azure Logic Apps have been adopted in the enterprise.
+[![](http://img.youtube.com/vi/HOtUff5dd0E/0.jpg)](http://www.youtube.com/watch?v=HOtUff5dd0E "")
 
-# Contributing
+Video 3 - How to create Azure Build Pipeline for MSSQL DB Deployment
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+[![](http://img.youtube.com/vi/bzDXEAaKtmY/0.jpg)](http://www.youtube.com/watch?v=bzDXEAaKtmY "")
+
+Video 4 - How to create Azure Release Pipleline for MSSQL DB Deployment
+
+[![](http://img.youtube.com/vi/TzEKwM3MnOA/0.jpg)](http://www.youtube.com/watch?v=TzEKwM3MnOA "")
+
+Video 5 - How to upgrade new table schema on MSSQL DB with Azure Devops Service
+
+[![](http://img.youtube.com/vi/TAJ6D-LNZ84/0.jpg)](http://www.youtube.com/watch?v=TAJ6D-LNZ84 "")
+
+# Thanks for Watching - DevopsGuru Team
+
+
+
